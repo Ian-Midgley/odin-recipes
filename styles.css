@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(93, 168, 196);
+}
+img {
+    width: 200px;
+}
+
+a {
+    font-size: 30px;
+    color: brown;
+}
+
+.head {
+    
+    font-size: 50px;
+    text-align: center;
+}
+
